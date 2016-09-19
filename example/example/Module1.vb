@@ -11,6 +11,7 @@
 
         System.Console.WriteLine("My name is " & name & surname)
         System.Console.WriteLine("I love Coding")
+        System.Console.WriteLine("I love GitHub")
         System.Console.ReadLine()
 
 
