@@ -10,7 +10,7 @@
         surname = System.Console.ReadLine()
 
         System.Console.WriteLine("My name is " & name & surname)
-        System.Console.WriteLine("I logged on with Lundi's Accound and made changes")
+        System.Console.WriteLine("I've just made changes as a change as a contributor to Phuthuma-1025")
         System.Console.ReadLine()
     End Sub
 
