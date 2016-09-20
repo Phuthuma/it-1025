@@ -10,8 +10,7 @@
         surname = System.Console.ReadLine()
 
         System.Console.WriteLine("My name is " & name & surname)
-        System.Console.WriteLine("I love Coding")
-        System.Console.WriteLine("I love GitHub")
+        System.Console.Write(", I love Coding, and i will make this project work though things may not seem to go my for now")
         System.Console.ReadLine()
 
 
