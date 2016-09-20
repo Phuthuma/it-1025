@@ -7,3 +7,12 @@ C:\Users\Petse\Desktop\example\example\bin\Debug\example.xml
 C:\Users\Petse\Desktop\example\example\obj\Debug\example.exe
 C:\Users\Petse\Desktop\example\example\obj\Debug\example.xml
 C:\Users\Petse\Desktop\example\example\obj\Debug\example.pdb
+C:\Users\Petse\Desktop\it-1025\example\example\bin\Debug\example.exe.config
+C:\Users\Petse\Desktop\it-1025\example\example\obj\Debug\example.exe
+C:\Users\Petse\Desktop\it-1025\example\example\obj\Debug\example.xml
+C:\Users\Petse\Desktop\it-1025\example\example\obj\Debug\example.pdb
+C:\Users\Petse\Desktop\it-1025\example\example\bin\Debug\example.exe
+C:\Users\Petse\Desktop\it-1025\example\example\bin\Debug\example.pdb
+C:\Users\Petse\Desktop\it-1025\example\example\bin\Debug\example.xml
+C:\Users\Petse\Desktop\it-1025\example\example\obj\Debug\example.Resources.resources
+C:\Users\Petse\Desktop\it-1025\example\example\obj\Debug\example.vbproj.GenerateResource.Cache
