@@ -11,6 +11,7 @@
 
         System.Console.WriteLine("My name is " & name & surname)
         System.Console.WriteLine("I've just made changes as a change as a contributor to Phuthuma-1025")
+        System.Console.WriteLine("Now I understand")
         System.Console.ReadLine()
     End Sub
 
